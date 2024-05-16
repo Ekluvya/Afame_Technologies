@@ -10,3 +10,6 @@ This is my submission for the Afame Technologies Web Development Internship. I d
 - CSS
 - Javascript
 - SCSS
+## Preview
+This project can be previewd on the foloowing url:
+https://ekluvya.github.io/Afame_Technologies/
